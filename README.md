@@ -4,7 +4,7 @@ This repository has been created by Maria Mannone on January 25, 2022.
 
 It contains the experiment data for the article:
 
-M. Mannone, V. Seidita, A. Chella, “Categories, Quantum Computing, and Swarm Robotics: A Case Study,” Mathematics, in press, 2022
+M. Mannone, V. Seidita, and A. Chella, “Categories, Quantum Computing, and Swarm Robotics: A Case Study,” Mathematics, in press, 2022
 
 In particular, it contains:
 
